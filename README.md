@@ -27,6 +27,15 @@ The focus is **research integrity and interpretability**, not brute‑force opti
 
 ---
 
+## Results Snapshot
+
+- Sentiment signals are **regime‑dependent**
+- Improving sentiment after negativity shows the strongest signal
+- Strategy avoids extreme drawdowns during volatility spikes
+- Walk‑forward backtest confirms no look‑ahead bias
+
+---
+
 ## Key Insights
 - Sentiment **levels alone are not predictive**
 - **Improving sentiment** after negativity is more informative
