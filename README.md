@@ -24,17 +24,16 @@ The focus is **research integrity and interpretability**, not brute‑force opti
 ---
 
 ## Methodology
-1. Sentiment aggregation and normalization
-2. Momentum vs sentiment‑level separation
-3. Volatility regime definition
-4. Bucket‑based exploratory analysis
-5. Regime‑aware walk‑forward backtest
-6. Interpretable logistic regression baseline
+1. Sentiment aggregation and normalization  
+2. Momentum vs sentiment‑level separation  
+3. Volatility regime definition  
+4. Bucket‑based exploratory analysis  
+5. Regime‑aware walk‑forward backtest  
+6. Interpretable logistic regression baseline  
 
 ---
 
 ## Results Snapshot
-
 - Sentiment signals are **regime‑dependent**
 - Improving sentiment after negativity shows the strongest signal
 - Strategy avoids extreme drawdowns during volatility spikes
@@ -53,7 +52,7 @@ The focus is **research integrity and interpretability**, not brute‑force opti
 ## Structure
 - `data/` — raw and processed datasets  
 - `notebooks/` — Kaggle‑ready research notebook  
-- `src/` — reusable feature and backtest logic  
+- `reports/figures/` — key visualizations  
 
 ---
 
