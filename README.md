@@ -1,5 +1,11 @@
 # Financial News Sentiment vs Market Direction
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF)
+![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-orange)
+![Finance](https://img.shields.io/badge/Domain-Quantitative%20Finance-purple)
+
 ![Walk‑Forward Equity Curve](reports/figures/walk_forward_equity_curve.png)
 
 This project analyzes whether **daily financial news sentiment** contains predictive signal for **next‑day equity market direction**, after conditioning on **volatility regimes**.
