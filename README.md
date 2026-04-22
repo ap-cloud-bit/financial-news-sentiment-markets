@@ -1,5 +1,7 @@
 # Financial News Sentiment vs Market Direction
 
+![Walk‑Forward Equity Curve](reports/figures/walk_forward_equity_curve.png)
+
 This project analyzes whether **daily financial news sentiment** contains predictive signal for **next‑day equity market direction**, after conditioning on **volatility regimes**.
 
 The focus is **research integrity and interpretability**, not brute‑force optimization.
